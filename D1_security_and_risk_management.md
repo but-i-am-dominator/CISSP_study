@@ -25,5 +25,7 @@ Confidentiality - concept of the measures used to ensure the protection of of th
 
 ### Integrity
 
+concept of protecting the reliability and correctness of data.
+
 
 ### Availability
