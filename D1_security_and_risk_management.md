@@ -29,3 +29,5 @@ concept of protecting the reliability and correctness of data.
 
 
 ### Availability
+
+authorized subjects are granted timely and uninterupted access to objects. Controls that support sufficient bandwidth and timeliness.
