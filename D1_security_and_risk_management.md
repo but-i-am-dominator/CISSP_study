@@ -31,3 +31,10 @@ concept of protecting the reliability and correctness of data.
 ### Availability
 
 authorized subjects are granted timely and uninterupted access to objects. Controls that support sufficient bandwidth and timeliness.
+
+
+* Usability: state of being easy to use or learn or being able  to be understood and controlled by a subject
+
+* Accessibilty: assurance that the wildest range of subjects can interact with resource regardless of their capabilities or limitations
+
+* Timeliness: Being prompt, on time, within a reasonable time frame, or providing low-latency response
