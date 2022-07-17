@@ -38,3 +38,6 @@ authorized subjects are granted timely and uninterupted access to objects. Contr
 * Accessibilty: assurance that the wildest range of subjects can interact with resource regardless of their capabilities or limitations
 
 * Timeliness: Being prompt, on time, within a reasonable time frame, or providing low-latency response
+
+
+### DAD, Overprotection, Authenticity, Non-repudiation, and AAA Services
