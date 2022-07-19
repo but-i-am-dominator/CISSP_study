@@ -41,3 +41,7 @@ authorized subjects are granted timely and uninterupted access to objects. Contr
 
 
 ### DAD, Overprotection, Authenticity, Non-repudiation, and AAA Services
+
+* Disclosure
+* Alteration
+* Destruction
