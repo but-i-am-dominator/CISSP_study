@@ -42,6 +42,10 @@ authorized subjects are granted timely and uninterupted access to objects. Contr
 
 ### DAD, Overprotection, Authenticity, Non-repudiation, and AAA Services
 
-* Disclosure
-* Alteration
-* Destruction
+DAD Triad represents the failures of the CIA Triad
+
+* Disclosure - Inverse of Confidentiality
+
+* Alteration - Inverse of Integrity
+
+* Destruction - Inverse of Availability
