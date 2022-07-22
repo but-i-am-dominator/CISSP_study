@@ -49,3 +49,6 @@ DAD Triad represents the failures of the CIA Triad
 * Alteration - Inverse of Integrity
 
 * Destruction - Inverse of Availability
+
+
+Defense in Depth - "layering"  is the use of multiple controls in a series.  
