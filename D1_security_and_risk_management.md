@@ -56,3 +56,4 @@ Defense in Depth - "layering"  is the use of multiple controls in a series.
 Abstraction - used for efficiency. Similar elements are put into groups, classes, or roles are assigned security controls, restriction, or permissions as a collective.
 
 On the road.
+On the road again.
