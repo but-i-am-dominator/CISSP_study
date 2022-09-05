@@ -55,4 +55,13 @@ Defense in Depth - "layering"  is the use of multiple controls in a series.
 
 Abstraction - used for efficiency. Similar elements are put into groups, classes, or roles are assigned security controls, restriction, or permissions as a collective.
 
+
+Security Policy:
+• Define the scope
+• Identify all assets
+• Determine level of protection
+• Determine personal responsibility
+• Develop consequences for noncompliance
+
+
 Goal 1 - Week 1 complete September 5 - September 10
