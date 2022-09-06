@@ -27,6 +27,10 @@ Confidentiality - concept of the measures used to ensure the protection of of th
 
 concept of protecting the reliability and correctness of data.
 
+* Preventing unauthorized subjects from making modifications.
+* Preventing authorized subjects from making unauthorized modifications (mistakes)
+* Maintaining the internal and external consistency of objects so that their data is a reflection of the real world and any relationship is valid, consistent, and verifiable.
+
 
 ### Availability
 
