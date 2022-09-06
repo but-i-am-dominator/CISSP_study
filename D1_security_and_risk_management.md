@@ -64,4 +64,5 @@ Security Policy:
 • Develop consequences for noncompliance
 
 
-Goal 1 - Week 1 complete September 5 - September 10
+Goal 1 - Week 1 complete September 5 - September 10 
+Complete Chapter 1
