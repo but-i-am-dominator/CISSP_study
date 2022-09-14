@@ -74,3 +74,6 @@ Protection Mechanisms
     Used for efficiency
     Similar Elements are put into groups, classes, or roles.
 * Data Hiding
+
+Security Boundaries
+* is the line of intersection between any two areas, subnets, or environments having different security requirements
