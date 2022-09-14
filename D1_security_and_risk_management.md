@@ -68,5 +68,9 @@ Security Policy:
 • Develop consequences for noncompliance
 
 
-Goal 1 - Week 1 complete September 11 - September 17
-Complete Chapter 1
+Protection Mechanisms
+* Defense in Depth
+* Abstraction
+    Used for efficiency
+    Similar Elements are put into groups, classes, or roles.
+* Data Hiding
