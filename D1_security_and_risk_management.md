@@ -77,3 +77,6 @@ Protection Mechanisms
 
 Security Boundaries
 * is the line of intersection between any two areas, subnets, or environments having different security requirements
+
+
+Security Governance is the collection of practices related to supporting, evaluating, defining, and directing the security efforts of an organization.
