@@ -80,3 +80,5 @@ Security Boundaries
 
 
 Security Governance is the collection of practices related to supporting, evaluating, defining, and directing the security efforts of an organization.
+
+Third-party governance is the system of external entity oversight that may be mandated by law, regulation, industry standards, contractual obligation, or licensing requirements.
